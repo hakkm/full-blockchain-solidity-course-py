@@ -941,7 +941,7 @@ Shoutout to [Matt](https://twitter.com/mdurkin92) for the help on the front end!
   - [SigmaPrime](https://sigmaprime.io/)
   - [Trail of Bits](https://www.trailofbits.com/)
 
-## Where do I go now?
+## What's next?
 
 ### Learning More
 
